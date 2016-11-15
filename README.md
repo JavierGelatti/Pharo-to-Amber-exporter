@@ -1,4 +1,4 @@
-# Pharo-to-Amber-exporter
+# Pharo to Amber exporter
 
 This is an utility to export code from Pharo to Amber.
 
