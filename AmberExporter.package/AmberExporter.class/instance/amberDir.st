@@ -1,0 +1,3 @@
+accessing
+amberDir
+	^ amberPath asFileReference

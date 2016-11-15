@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"fromPackages:toAmberIn:" : "FacundoJavierGelatti 11/9/2016 03:10" },
+	"instance" : {
+		"amberDir" : "FacundoJavierGelatti 11/9/2016 03:11",
+		"amberPath:" : "FacundoJavierGelatti 11/9/2016 03:10",
+		"containsTests:" : "FacundoJavierGelatti 10/18/2016 11:29",
+		"copyToAmberDir" : "FacundoJavierGelatti 10/18/2016 11:30",
+		"executeCommands:" : "FacundoJavierGelatti 11/15/2016 00:14",
+		"exportPackages" : "FacundoJavierGelatti 11/14/2016 02:17",
+		"fileOutPackages" : "FacundoJavierGelatti 11/15/2016 00:07",
+		"generateJsOf:" : "FacundoJavierGelatti 11/6/2016 21:59",
+		"packages" : "FacundoJavierGelatti 11/9/2016 03:12",
+		"packages:" : "FacundoJavierGelatti 11/9/2016 03:10",
+		"removePreviousFileOut" : "FacundoJavierGelatti 10/18/2016 05:01" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "AmberExporter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"progressBar",
+		"packages",
+		"amberPath" ],
+	"name" : "AmberExporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
